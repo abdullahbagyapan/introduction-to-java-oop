@@ -1,4 +1,4 @@
-package Test;
+package Bike;
 
 public class BikeStore {
 
